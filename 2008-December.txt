@@ -1,0 +1,37 @@
+From admin at berlios.de  Tue Dec  9 04:11:53 2008
+From: admin at berlios.de (admin at berlios.de)
+Date: Mon, 8 Dec 2008 22:11:53 -0500 (EST)
+Subject: [dreamchess-devel] [Feature #4414] Chess positions
+Message-ID: <200812090311.mB93BrKs029940@unicorn.berlios.de>
+
+Feature Request #4414, was updated on 2008-Dec-08 22:11
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4414&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: Chess positions
+
+By: jamaalspeights
+Date: 2008-Dec-08 22:11
+
+Message:
+Logged In: YES 
+user_id=49281
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4
+
+Can you place the positions around the board like a-h
+at the bottom and 1-8 up the sides of the board please?
+ It will help new people like me to remember the
+positions.  :)
+
+Thanks
+
+
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4414&group_id=1625
+
+

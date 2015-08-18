@@ -1,0 +1,148 @@
+From admin at berlios.de  Sun Apr  5 12:34:22 2009
+From: admin at berlios.de (admin at berlios.de)
+Date: Sun, 5 Apr 2009 02:34:22 -0800 (AKDT)
+Subject: [dreamchess-devel] [Feature #4563] Solve Matches
+Message-ID: <200904051034.n35AYMP7023127@unicorn.berlios.de>
+
+Feature Request #4563, was updated on 2009-Apr-05 02:34
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4563&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: Solve Matches
+
+By: roobre
+Date: 2009-Apr-05 02:34
+
+Message:
+Logged In: YES 
+user_id=51117
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8
+
+Could you implement a tool for program specific matches
+and let the engine solve it??
+
+Example:
+
+You are playing with a friend and he do a move and you
+don't know what to do.
+
+Then, you "Ask" Dream chess for a possible solution.
+
+
+
+Best regards, Roobre
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4563&group_id=1625
+
+
+From admin at berlios.de  Sun Apr  5 12:35:45 2009
+From: admin at berlios.de (admin at berlios.de)
+Date: Sun, 5 Apr 2009 02:35:45 -0800 (AKDT)
+Subject: [dreamchess-devel] [Feature #4414] Chess positions
+Message-ID: <200904051035.n35AZjXS024273@unicorn.berlios.de>
+
+Feature Request #4414, was updated on 2008-Dec-08 18:11
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4414&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: Chess positions
+
+By: roobre
+Date: 2009-Apr-05 02:35
+
+Message:
+Logged In: YES 
+user_id=51117
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8
+
+You can Do-It-Yoursef editing the Background of the board
+with your favourite image editor an putting the letters &
+Numbers as you want.
+
+Regards
+
+----------------------------------------------------------------------
+
+By: jamaalspeights
+Date: 2008-Dec-08 18:11
+
+Message:
+Logged In: YES 
+user_id=49281
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4
+
+Can you place the positions around the board like a-h
+at the bottom and 1-8 up the sides of the board please?
+ It will help new people like me to remember the
+positions.  :)
+
+Thanks
+
+
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4414&group_id=1625
+
+
+From admin at berlios.de  Sun Apr  5 12:39:20 2009
+From: admin at berlios.de (admin at berlios.de)
+Date: Sun, 5 Apr 2009 02:39:20 -0800 (AKDT)
+Subject: [dreamchess-devel] [Feature #4414] Chess positions
+Message-ID: <200904051039.n35AdKZt027138@unicorn.berlios.de>
+
+Feature Request #4414, was updated on 2008-Dec-08 18:11
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4414&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: Chess positions
+
+By: roobre
+Date: 2009-Apr-05 02:39
+
+Message:
+Logged In: YES 
+user_id=51117
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8
+
+Go to:
+DreamChess/data/boards/classic
+
+And edit "board.png" with your image editor.
+
+NOTE: This onli will solve the problem for the "Classic
+Wooden" Theme. If you use other, simply go to its folder &
+edit it too.
+
+----------------------------------------------------------------------
+
+By: roobre
+Date: 2009-Apr-05 02:35
+
+Message:
+Logged In: YES 
+user_id=51117
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8
+
+You can Do-It-Yoursef editing the Background of the board
+with your favourite image editor an putting the letters &
+Numbers as you want.
+
+Regards
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4414&group_id=1625
+
+

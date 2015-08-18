@@ -1,0 +1,40 @@
+From admin at berlios.de  Mon Jan  1 06:59:52 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Mon, 1 Jan 2007 07:59:52 +0200 (WAST)
+Subject: [dreamchess-devel] [Feature #3000] Net Play
+Message-ID: <200701010559.l015xqRt001490@unicorn.berlios.de>
+
+Feature Request #3000, was updated on 2007-Jan-01 07:59
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3000&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: Net Play
+
+By: evorster
+Date: 2007-Jan-01 07:59
+
+Message:
+Logged In: YES 
+user_id=34699
+Browser: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.0.9) Gecko/20061206 Firefox/1.5.0.9
+
+Hi... 
+It would be really lovely if dreamchess allowed me to
+play against another human also running dreamchess on
+the same network. 
+
+Is such a feature in the works?
+
+I love the interface, btw. Great work, and thanks for
+making this great chess game freely available!
+
+-Evert Vorster-
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3000&group_id=1625
+
+

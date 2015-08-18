@@ -1,0 +1,52 @@
+From admin at berlios.de  Sat Nov  3 19:49:51 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Sat, 3 Nov 2007 19:49:51 +0100 (CET)
+Subject: [dreamchess-devel] [Bug #8928] Building with sdlgl disabled is
+	broken.
+Message-ID: <200711031849.lA3Inpqg016583@unicorn.berlios.de>
+
+Bug #8928, was updated on 2006-Sep-28 23:02
+Here is a current snapshot of the bug.
+
+Project: DreamChess
+Category: DreamChess
+Status: Closed
+Resolution: None
+Bug Group: None
+Priority: 2
+Submitted by: waltervn
+Assigned to : none
+Summary: Building with sdlgl disabled is broken.
+
+Details: When configure determines that the sdlgl interface driver should not be built, some sdlgl files are still compiled during the build process.
+
+For detailed info, follow this link:
+http://developer.berlios.de/bugs/?func=detailbug&bug_id=8928&group_id=1625
+
+
+From admin at berlios.de  Sat Nov  3 21:14:47 2007
+From: admin at berlios.de (admin at berlios.de)
+Date: Sat, 3 Nov 2007 21:14:47 +0100 (CET)
+Subject: [dreamchess-devel] [Bug #8901] board.c:398: error: board is missing
+	a king
+Message-ID: <200711032014.lA3KElEI004191@unicorn.berlios.de>
+
+Bug #8901, was updated on 2006-Sep-27 02:28
+Here is a current snapshot of the bug.
+
+Project: DreamChess
+Category: None
+Status: Closed
+Resolution: None
+Bug Group: None
+Priority: 5
+Submitted by: krismca
+Assigned to : none
+Summary: board.c:398: error: board is missing a king
+
+Details: While repeatedly moving my king out of check via a knight, I was dumped to the console with 'board.c:398: error: board is missing a king'.
+
+For detailed info, follow this link:
+http://developer.berlios.de/bugs/?func=detailbug&bug_id=8901&group_id=1625
+
+

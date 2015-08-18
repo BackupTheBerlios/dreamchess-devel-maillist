@@ -1,0 +1,31 @@
+From admin at berlios.de  Sat Jan  5 05:16:14 2008
+From: admin at berlios.de (admin at berlios.de)
+Date: Sat, 5 Jan 2008 06:16:14 +0200 (EET)
+Subject: [dreamchess-devel] [Feature #3932] UCI support
+Message-ID: <200801050416.m054GERO028237@unicorn.berlios.de>
+
+Feature Request #3932, was updated on 2008-Jan-05 06:16
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3932&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: UCI support
+
+By: msundman
+Date: 2008-Jan-05 06:16
+
+Message:
+Logged In: YES 
+user_id=43111
+Browser: Opera/9.25 (X11; Linux i686; U; en)
+
+UCI (universal chess interface) would be nice to have since the best 
+engines use UCI.
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=3932&group_id=1625
+
+

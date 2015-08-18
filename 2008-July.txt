@@ -1,0 +1,59 @@
+From usb at mobilnova.com  Wed Jul  9 20:44:37 2008
+From: usb at mobilnova.com (usb at mobilnova.com)
+Date: Wed, 9 Jul 2008 20:44:37 +0200
+Subject: [dreamchess-devel] Problems when run on an embedded system
+Message-ID: <BC1FF0FF51214A748C90BD0508001C06@thinkpadserg>
+
+Hi, 
+
+I've ported dreachess 0.2 to an ARM9 embedded system.
+The configuation of system is as follows:
+ARM9, color depth 16bit (565), screen size 480*272
+OpenGL support: OSMesa 7.0.3 configured as linux-osmesa configuration, pure SW rendering
+SDL 1.2.13 configured to use fbdev video driver and automatically create opengl context
+
+The game starts well but the graphis is messed up.
+The fonts are in bluecolors and unreadable. When I manage to go to the board view, in 3D view the figues are also blue, whole image has a lot of blue color.
+
+I tried to compile all under X using mesa pure sw rendering.
+The result was better but thjere are still artifacts, like there is no board image in board view, etc.
+
+Are there any trick to compile dreamchess with osmesa and pure sw 3d rendering ? Maybe I need to use specific OSMesa version ?
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/dreamchess-devel/attachments/20080709/00ace648/attachment.html>
+
+From admin at berlios.de  Mon Jul 21 04:34:46 2008
+From: admin at berlios.de (admin at berlios.de)
+Date: Sun, 20 Jul 2008 18:34:46 -0800 (AKDT)
+Subject: [dreamchess-devel] [Feature #4241] FICS support
+Message-ID: <200807210234.m6L2YkQO008210@unicorn.berlios.de>
+
+Feature Request #4241, was updated on 2008-Jul-20 18:34
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4241&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: FICS support
+
+By: jpenguin
+Date: 2008-Jul-20 18:34
+
+Message:
+Logged In: YES 
+user_id=47034
+Browser: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.15) Gecko/20080623 Firefox/2.0.0.15
+
+Because all the avvailable open-source FICS clients are
+2d and a bit plain, it wowd be nice if you could add
+FICS support
+
+http://www.freechess.org
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4241&group_id=1625
+
+

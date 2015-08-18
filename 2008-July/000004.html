@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [dreamchess-devel] Problems when run on an embedded system
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/dreamchess-devel/2008-July/index.html" >
+   <LINK REL="made" HREF="mailto:dreamchess-devel%40lists.berlios.de?Subject=Re%3A%20%5Bdreamchess-devel%5D%20Problems%20when%20run%20on%20an%20embedded%20system&In-Reply-To=%3CBC1FF0FF51214A748C90BD0508001C06%40thinkpadserg%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   
+   <LINK REL="Next"  HREF="000005.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[dreamchess-devel] Problems when run on an embedded system</H1>
+    <B>usb at mobilnova.com</B> 
+    <A HREF="mailto:dreamchess-devel%40lists.berlios.de?Subject=Re%3A%20%5Bdreamchess-devel%5D%20Problems%20when%20run%20on%20an%20embedded%20system&In-Reply-To=%3CBC1FF0FF51214A748C90BD0508001C06%40thinkpadserg%3E"
+       TITLE="[dreamchess-devel] Problems when run on an embedded system">usb at mobilnova.com
+       </A><BR>
+    <I>Wed Jul  9 20:44:37 CEST 2008</I>
+    <P><UL>
+        
+        <LI>Next message: <A HREF="000005.html">[dreamchess-devel] [Feature #4241] FICS support
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#4">[ date ]</a>
+              <a href="thread.html#4">[ thread ]</a>
+              <a href="subject.html#4">[ subject ]</a>
+              <a href="author.html#4">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hi, 
+
+I've ported dreachess 0.2 to an ARM9 embedded system.
+The configuation of system is as follows:
+ARM9, color depth 16bit (565), screen size 480*272
+OpenGL support: OSMesa 7.0.3 configured as linux-osmesa configuration, pure SW rendering
+SDL 1.2.13 configured to use fbdev video driver and automatically create opengl context
+
+The game starts well but the graphis is messed up.
+The fonts are in bluecolors and unreadable. When I manage to go to the board view, in 3D view the figues are also blue, whole image has a lot of blue color.
+
+I tried to compile all under X using mesa pure sw rendering.
+The result was better but thjere are still artifacts, like there is no board image in board view, etc.
+
+Are there any trick to compile dreamchess with osmesa and pure sw 3d rendering ? Maybe I need to use specific OSMesa version ?
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://lists.berlios.de/pipermail/dreamchess-devel/attachments/20080709/00ace648/attachment.html">https://lists.berlios.de/pipermail/dreamchess-devel/attachments/20080709/00ace648/attachment.html</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	
+	<LI>Next message: <A HREF="000005.html">[dreamchess-devel] [Feature #4241] FICS support
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#4">[ date ]</a>
+              <a href="thread.html#4">[ thread ]</a>
+              <a href="subject.html#4">[ subject ]</a>
+              <a href="author.html#4">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/dreamchess-devel">More information about the dreamchess-devel
+mailing list</a><br>
+</body></html>

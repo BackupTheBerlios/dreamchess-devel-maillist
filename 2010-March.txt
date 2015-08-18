@@ -1,0 +1,36 @@
+From admin at berlios.de  Sat Mar  6 05:51:36 2010
+From: admin at berlios.de (admin at berlios.de)
+Date: Fri, 5 Mar 2010 19:51:36 -0900 (AKST)
+Subject: [dreamchess-devel] [Feature #4963] internet play
+Message-ID: <201003060451.o264pa3Q024496@unicorn.berlios.de>
+
+Feature Request #4963, was updated on 2010-Mar-05 19:51
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4963&group_id=1625
+
+Category: None
+Status: Open
+Priority: 5
+Summary: internet play
+
+By: skary
+Date: 2010-Mar-05 19:51
+
+Message:
+Logged In: YES 
+user_id=55461
+Browser: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.307.11 Safari/532.9
+
+this is a beautiful looking chess game compared to most 
+and it's open source. And it runs great on my ubuntu. It 
+would be awesome if i could select human vs human, tick 
+an IP address box, enter in my friend's IP address (who 
+already has the game running) and start playing him.
+
+Name your donation size and i'll see what i can do. 
+
+----------------------------------------------------------------------
+You can respond by visiting: 
+http://developer.berlios.de/feature/?func=detailfeature&feature_id=4963&group_id=1625
+
+
